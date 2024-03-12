@@ -1,0 +1,17 @@
+#map,
+.wide-text-editor-container {
+    width: 600px;
+    height: 600px;
+    display: inline-block;
+}
+
+.wide-text-editor {
+    width: 600px;
+    height: 600px;
+}
+
+.button {
+    clear: both;
+    display: block;
+    margin-top: 10px;
+}
